@@ -32,4 +32,8 @@ When an algorithm is run on a computer, it requires a certain amount of memory s
 
 **What is Array?**
 Array is a collection of similar data items stored at contiguous memory locations and  those elements can be accessed randomly using indices of an array. 
-  
+
+Q1) Reverse the array
+
+![image](https://user-images.githubusercontent.com/75212387/186051511-3b10fdd0-0bc4-4ff0-8a3e-c9a0ca86ebab.png)
+
