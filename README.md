@@ -37,3 +37,7 @@ Q1) Reverse the array
 
 ![image](https://user-images.githubusercontent.com/75212387/186051511-3b10fdd0-0bc4-4ff0-8a3e-c9a0ca86ebab.png)
 
+Q2) Find the maximum and maximum element in an array
+
+![image](https://user-images.githubusercontent.com/75212387/186146009-14b11ea6-81ed-4221-9a34-835b45776644.png)
+
