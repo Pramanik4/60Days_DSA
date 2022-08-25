@@ -44,3 +44,12 @@ Q2) Find the maximum and maximum element in an array
 Q3) Find the Kth max and min element in an array
 
 ![image](https://user-images.githubusercontent.com/75212387/186547029-dee9effe-16ae-4d06-9880-340c521dc806.png)
+
+Q4) Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo
+
+
+
+Q5) Move all the negative elements to one side of the array 
+
+![image](https://user-images.githubusercontent.com/75212387/186552755-67b82434-6262-4c8b-b9b3-d7d8e2f1983d.png)
+
