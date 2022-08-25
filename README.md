@@ -41,3 +41,6 @@ Q2) Find the maximum and maximum element in an array
 
 ![image](https://user-images.githubusercontent.com/75212387/186146009-14b11ea6-81ed-4221-9a34-835b45776644.png)
 
+Q3) Find the Kth max and min element in an array
+
+![image](https://user-images.githubusercontent.com/75212387/186547029-dee9effe-16ae-4d06-9880-340c521dc806.png)
