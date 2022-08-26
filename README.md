@@ -53,3 +53,6 @@ Q5) Move all the negative elements to one side of the array
 
 ![image](https://user-images.githubusercontent.com/75212387/186552755-67b82434-6262-4c8b-b9b3-d7d8e2f1983d.png)
 
+Q6) Find the Union and Intersection of the two sorted arrays
+
+![image](https://user-images.githubusercontent.com/75212387/186802596-4c64fe04-f5a1-4c0c-9088-8e9d16f9231f.png)
