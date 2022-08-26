@@ -56,3 +56,8 @@ Q5) Move all the negative elements to one side of the array
 Q6) Find the Union and Intersection of the two sorted arrays
 
 ![image](https://user-images.githubusercontent.com/75212387/186802596-4c64fe04-f5a1-4c0c-9088-8e9d16f9231f.png)
+
+Q7) Minimise the maximum difference between heights [V.IMP]
+
+![image](https://user-images.githubusercontent.com/75212387/186821433-fa248b8f-b1d7-46d2-acf3-4d28ea6faadb.png)
+
